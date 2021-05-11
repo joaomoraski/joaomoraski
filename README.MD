@@ -2,7 +2,7 @@
 About me:
 
 - I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão (2021-2024).
-- I'm currently learning PHP, NodeJS, Laravel and Lumen
+- I'm currently learning PHP, NodeJS, Laravel and Lumen.
 - How to reach me: joaomoraskilunkes@gmail.com
 
 
@@ -21,8 +21,7 @@ About me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&fontColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=java&logoColor=white)
-
-![PHP](https://img.shields.io/badge/-PHP-?style=flat-square&logo=PHP&color=blueviolet)
+![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP&logoColor=white)
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,10 +34,16 @@ About me:
 ![MySQL](https://img.shields.io/badge/-MySQL-323330?style=flat-square&logo=mysql)
 
 
-
+### OS & IDE & Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![JetBrains](https://img.shields.io/badge/JetBrains-white?style=flat&logo=jetbrains&logoColor=black)
+![Intellij](https://img.shields.io/badge/IntelliJ-white?style=flat&logo=jetbrains&logoColor=black)
+![CLion](https://img.shields.io/badge/CLion-white?style=flat&logo=clion&logoColor=black)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-white?style=flat&logo=phpstorm&logoColor=black)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraski&hide=TeX&layout=compact)
 -->
