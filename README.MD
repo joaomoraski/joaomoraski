@@ -13,10 +13,12 @@ About me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-moraski-lunkes-156788170/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-moraski-lunkes-156788170/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joaomoraski/)](https://www.instagram.com/joaomoraski/)
 [![Gmail Badge](https://img.shields.io/badge/-joaomoraskilunkes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomoraskilunkes@gmail.com)](mailto:joaomoraskilunkes@gmail.com)
-<p align="center">
-  <img href="https://github.com/ryo-ma/github-profile-trophy align="center" src="https://github-profile-trophy.vercel.app/?username=joaomoraski&theme=onedark&row=2&column=4&margin-w=4&margin-h=4" alt="Trophies" />
-</p>
 
+<div>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoraski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraski&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" href="https://github.com/ryo-ma/github-profile-trophy align="left" src="https://github-profile-trophy.vercel.app/?username=joaomoraski&theme=onedark&row=2&column=4&margin-w=4&margin-h=4" alt="Trophies" />
+</div>  
 
 ## ⚡ Technologies
 
@@ -49,4 +51,4 @@ About me:
 ![CLion](https://img.shields.io/badge/CLion-white?style=flat&logo=clion&logoColor=black)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-white?style=flat&logo=phpstorm&logoColor=black)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraski&hide=TeX&layout=compact) -->
+
