@@ -2,12 +2,12 @@
 About me:
 
 - Graduated in the course of Integrated Technician in Informatics at the Federal University of Paraná.
-<!--   - You can verify using this [link](http://utfws.utfpr.edu.br/sistemas.utfpr.edu.br/declaracoes). -->
-<!--   - Requested date: 09/06/2021 20:54:33 
-  - Requested code: 7D9F.D50A.321D.BF4C.843A.C8C9.9048.4A13 -->
 - I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão (2021-2024).
 - I'm currently learning PHP, NodeJS, Laravel and Lumen.
 - How to reach me: joaomoraskilunkes@gmail.com
+<!--   - You can verify using this [link](http://utfws.utfpr.edu.br/sistemas.utfpr.edu.br/declaracoes). -->
+<!--   - Requested date: 09/06/2021 20:54:33  -->
+<!--   - Requested code: 7D9F.D50A.321D.BF4C.843A.C8C9.9048.4A13 -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-moraski-lunkes-156788170/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-moraski-lunkes-156788170/)
