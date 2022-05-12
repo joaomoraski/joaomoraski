@@ -52,3 +52,6 @@ About me:
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-white?style=flat&logo=phpstorm&logoColor=black)
 
 
+### Buy me a cooffe
+Pix: 811f3996-54e5-44af-8bbd-ec0e3c1e557a
+
